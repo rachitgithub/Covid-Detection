@@ -5,3 +5,4 @@ Completed the confusion matrix graph for
     Hyper Parameters, 
     Early Stopping, 
     VGG
+    Sequential
