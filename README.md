@@ -6,3 +6,4 @@ Completed the confusion matrix graph for
     Early Stopping, 
     VGG
     Sequential
+    RESNET
