@@ -7,3 +7,4 @@ Completed the confusion matrix graph for
     VGG
     Sequential
     RESNET
+    inception
