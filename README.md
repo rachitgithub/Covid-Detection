@@ -4,8 +4,10 @@ Completed the confusion matrix graph for
     Data Augumentation, 
     Hyper Parameters, 
     Early Stopping, 
-    VGG
-    Sequential
-    RESNET
-    inception
-     Dropout
+    VGG, 
+    Sequential, 
+    RESNET, 
+    inception, 
+     Dropout, 
+     Adam, 
+     
