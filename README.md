@@ -8,6 +8,7 @@ Completed the confusion matrix graph for
     Sequential, 
     RESNET, 
     inception, 
-     Dropout, 
-     Adam, 
+    Dropout, 
+    Adam, 
+    Batch Normalization
      
